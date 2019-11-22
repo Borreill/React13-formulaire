@@ -1,0 +1,21 @@
+.partOfForm {
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.first-title {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.title{
+  display: flex;
+  justify-content: flex-start;
+  margin-top:10px;
+}
+.container-form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
